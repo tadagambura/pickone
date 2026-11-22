@@ -42,6 +42,8 @@ Couples, friend groups, families, classrooms, anyone stuck choosing.
 | Premium | £1.99 lifetime: themes, unlimited saved wheels, no ads |
 | Ads | Banner, plus a rewarded ad to try a theme |
 
+**Portfolio premium promise:** free has ads; the moment you pay you get no ads, cloud backup and storage, and sync across your devices, plus this app's extras.
+
 ## Why people come back
 
 Built on **The Progression Loop**, the portfolio's shared retention framework
