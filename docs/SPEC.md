@@ -50,6 +50,16 @@ Prices are starting points; test before committing.
 Follow the portfolio guardrails: no guilt-trip notifications, no fake urgency, progress is
 never wiped, at most one notification a day by default.
 
+## Animation and tone
+
+**Full drama.** Duolingo-style theatrics: characters, big over-the-top reactions, sound effects, comic tragedy ('NOOOOOOO!!!! NOT CYPHICUS!!!!').
+
+- Drumroll while the wheel spins, slowing with suspense; near-misses get gasps
+- 'THE WHEEL HAS SPOKEN' reveal with a spotlight and fanfare
+- Spin again and the wheel acts offended ('Oh, so my opinion doesn't matter?')
+
+**Line we don't cross:** Keep it short: the whole spin is a few seconds, and skippable.
+
 ## AI
 
 **None.** Not needed. Plain code does everything this app does. (Portfolio rule: plain code first, code does the maths,
