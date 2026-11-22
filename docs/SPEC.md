@@ -1,6 +1,6 @@
 # PickOne: Spec
 
-**Can't decide? Spin for it** · #3 of 33 · Wave 1: Daily keepers · Used: Ad hoc, kept for good · Very easy · Revenue potential: Low · Social, Play & Style · Source: ChatGPT + Perplexity
+**Can't decide? Spin for it** · #3 of 32 · Wave 1: Daily keepers · Used: Ad hoc, kept for good · Very easy · Revenue potential: Low · Social, Play & Style · Source: ChatGPT + Perplexity
 
 ## One-liner
 
