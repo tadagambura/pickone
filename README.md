@@ -56,6 +56,16 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Next step | Suggest a recurring wheel (weekly dinner) |
 | Cadence | Ad hoc |
 
+## Animation and tone
+
+**Full drama.** Duolingo-style theatrics: characters, big over-the-top reactions, sound effects, comic tragedy ('NOOOOOOO!!!! NOT CYPHICUS!!!!').
+
+- Drumroll while the wheel spins, slowing with suspense; near-misses get gasps
+- 'THE WHEEL HAS SPOKEN' reveal with a spotlight and fanfare
+- Spin again and the wheel acts offended ('Oh, so my opinion doesn't matter?')
+
+**Line we don't cross:** Keep it short: the whole spin is a few seconds, and skippable.
+
 ## AI
 
 **None.** Not needed. Plain code does everything this app does.
