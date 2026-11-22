@@ -58,13 +58,15 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Next step | Suggest a recurring wheel (weekly dinner) |
 | Cadence | Ad hoc |
 
-## Animation and tone
+## Animation and tone: five signature animations
 
-**Full drama.** Duolingo-style theatrics: characters, big over-the-top reactions, sound effects, comic tragedy ('NOOOOOOO!!!! NOT CYPHICUS!!!!').
+**Full drama.** Duolingo-style theatrics: characters, big over-the-top reactions, sound effects. Thirsty's plant death is the only animation that takes over the full screen ('NOOOOOOO!!!! NOT CYPHICUS!!!!').
 
-- Drumroll while the wheel spins, slowing with suspense; near-misses get gasps
-- 'THE WHEEL HAS SPOKEN' reveal with a spotlight and fanfare
-- Spin again and the wheel acts offended ('Oh, so my opinion doesn't matter?')
+- Spin: drumroll, gasps at near-misses, then 'THE WHEEL HAS SPOKEN' under a spotlight
+- Spin again: the wheel sulks ('Oh, so my opinion doesn't matter?')
+- Third re-spin: the wheel falls asleep and snores until you tap it awake
+- Coin flip: the stickman flips it so high it leaves the screen, then it lands on his head
+- Group vote: stickmen argue in a huddle, then carry the winner off on their shoulders
 
 **Line we don't cross:** Keep it short: the whole spin is a few seconds, and skippable.
 
