@@ -2,15 +2,15 @@
 
 **Can't decide? Spin for it**
 
-> #8 of 33 in the build order · Very easy · Revenue potential: Low · Social, Play & Style
+> #3 of 33 · Wave 1: Daily keepers · Used: Ad hoc, kept for good · Very easy · Revenue potential: Low · Social, Play & Style
 
 ## What it is
 
-Add your options and spin a wheel, flip a coin, roll dice or run a quick group vote. Save wheels for decisions you make often (dinner, films, chores) and exclude recent picks so you don't keep getting the same answer.
+A deliberately silly, quick app for indecisive people, especially couples and friend groups. Add options and spin a wheel, flip a coin, roll dice or run a quick group vote, with daft animations and sounds. Save wheels for decisions you make often (dinner, films) and exclude recent picks so it doesn't keep landing on the same thing.
 
 ## Why it's in the portfolio
 
-One of the fastest apps to ship, and naturally shareable (people film spins). Low revenue on its own, so its real job is cheap acquisition and cross-promoting the stronger apps.
+It's stupid and fun, and that's the point: it takes days to build, it's naturally shareable (people film spins), and indecisive couples keep it on their phone for good. It's a cheap way to bring in users and point them at the bigger apps.
 
 ## Who it's for
 
@@ -56,9 +56,13 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Next step | Suggest a recurring wheel (weekly dinner) |
 | Cadence | Ad hoc |
 
+## AI
+
+**None.** Not needed. Plain code does everything this app does.
+
 ## Watch-outs
 
-Weak retention and a crowded category. Ship fast, don't over-invest, use it to cross-promote.
+Keep it tiny. Don't over-invest: ship in days, make it funny, use it to cross-promote.
 
 ## Status
 
