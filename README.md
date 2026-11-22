@@ -4,11 +4,13 @@ Can't decide? Add your options, spin the wheel, settle it
 
 ## Status
 
-Planning. See [`docs/SPEC.md`](docs/SPEC.md).
+Planning. #2 of 15 in the portfolio build order (very easy). See [`docs/SPEC.md`](docs/SPEC.md).
 
 ## How it makes money
 
-_TBD, see SPEC._
+- **Free:** Wheel + flips, with ads
+- **Paid:** Themes + unlimited saved wheels, one-off £1.99
+- **Ads:** Banner + rewarded ad to unlock a theme
 
 ## Run locally
 
