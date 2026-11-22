@@ -1,10 +1,10 @@
 # PickOne: Spec
 
-**Can't decide? Spin for it** · #8 of 33 in the build order · Very easy · Revenue potential: Low · Social, Play & Style · Source: ChatGPT + Perplexity
+**Can't decide? Spin for it** · #3 of 33 · Wave 1: Daily keepers · Used: Ad hoc, kept for good · Very easy · Revenue potential: Low · Social, Play & Style · Source: ChatGPT + Perplexity
 
 ## One-liner
 
-Add your options and spin a wheel, flip a coin, roll dice or run a quick group vote. Save wheels for decisions you make often (dinner, films, chores) and exclude recent picks so you don't keep getting the same answer.
+A deliberately silly, quick app for indecisive people, especially couples and friend groups. Add options and spin a wheel, flip a coin, roll dice or run a quick group vote, with daft animations and sounds. Save wheels for decisions you make often (dinner, films) and exclude recent picks so it doesn't keep landing on the same thing.
 
 ## Problem / audience
 
@@ -50,6 +50,11 @@ Prices are starting points; test before committing.
 Follow the portfolio guardrails: no guilt-trip notifications, no fake urgency, progress is
 never wiped, at most one notification a day by default.
 
+## AI
+
+**None.** Not needed. Plain code does everything this app does. (Portfolio rule: plain code first, code does the maths,
+cheapest model, shared budget cap, premium-gated.)
+
 ## Platform & data
 
 - **Platform:** Web first, then Expo app.
@@ -63,7 +68,7 @@ never wiped, at most one notification a day by default.
 
 ## Risks
 
-Weak retention and a crowded category. Ship fast, don't over-invest, use it to cross-promote.
+Keep it tiny. Don't over-invest: ship in days, make it funny, use it to cross-promote.
 
 ## Launch checklist
 
